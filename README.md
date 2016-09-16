@@ -1,4 +1,4 @@
-##LECCIÓN 25: BICIS - LOCAS
+##LECCIÓN 25: BICIS - LOCAS2
 
 ####Contexto: Generar Validaciones en Globos
 
